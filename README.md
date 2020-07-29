@@ -1,0 +1,2 @@
+`tcpscan` is concurrent TCP port scanner.
+It is adapted from the book [Black Hat Go](https://nostarch.com/blackhatgo). The original code example from the book can be found [here](https://github.com/blackhat-go/bhg).
