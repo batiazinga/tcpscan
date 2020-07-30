@@ -7,6 +7,7 @@ import (
 	"github.com/batiazinga/tcpscan"
 )
 
+// BenchmarkScan scans 127.0.01 ports.
 func BenchmarkScan(b *testing.B) {
 	host := "127.0.0.1"
 	numPorts := []int{1023, 49151, 65535}
